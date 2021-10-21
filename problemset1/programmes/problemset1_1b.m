@@ -2,6 +2,29 @@
 %% 2 percentage signs represent sections of code;
 % 1 percentage sign represents comments for code or commented out code;
 
+% Answers to question parts that don't involve code can be found at the
+% bottom of the programme, in the section ``Questions asked in problemset x
+% that don't involve code".
+
+% Text answers to question parts that involve code will be between the
+% sub-section label:
+%=======
+% ANSWER
+%=======
+% Answer here
+%===========
+% END ANSWER
+%===========
+
+% Comments that are important will be between the sub-section label:
+%=====
+% NOTE
+%=====
+% Important note here
+%=========
+% END NOTE
+%=========
+
 % ECO384G Problem Set 1, 1b
 % Paul Le Tran, plt377
 % 1 September, 2021
