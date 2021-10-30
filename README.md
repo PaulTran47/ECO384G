@@ -21,7 +21,7 @@
 ## Overview
 =========================================================================
 
-This repository houses all problem sets and associated solutions for ECO384G: Business Cycle Analysis at UT Austin. The solutions are written in Matlab by Paul Le Tran.
+This repository houses all problem sets and associated solutions for ECO384G: Business Cycle Analysis at UT Austin, in fall 2021. The solutions are written in Matlab by Paul Le Tran.
 
 <p align="right">
   (<a href="#ut-austin-business-cycle-analysis">back to top.</a>)
