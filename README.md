@@ -11,6 +11,8 @@
         <li><a href="#problem-set-1">Problem set 1</a></li>
         <li><a href="#problem-set-2">Problem set 2</a></li>
         <li><a href="#problem-set-3">Problem set 3</a></li>
+        <li><a href="#problem-set-3">Problem set 6</a></li>
+        <li><a href="#problem-set-3">Problem set 7</a></li>
       </ol>
     </li>
     <li><a href="#prerequisites">Prerequisites</a></li>
@@ -20,9 +22,9 @@
 ---
 
 ## Overview
-This repository houses all problem sets and associated solutions for ECO384G: Business Cycle Analysis at UT Austin, in fall 2021. The solutions are written in Matlab by Paul Le Tran.
+This repository houses all problem sets and associated solutions for ECO384G: Business Cycle Analysis at UT Austin, in fall 2021 (problem sets 1 and 3) and ECO384G: Business Cycles and Policy in spring 2022 (problem sets 4 - 7). The solutions are written in Matlab by Paul Le Tran.
 
-Problem set 1 is from Professor Oli Coibion. Problem set 3 is from Professor Andres Drenik.
+Problem set 1 is from Professor Oli Coibion. Problem set 3 is from Professor Andres Drenik. Problem sets 4-5 are from Professor Nitya Pandalai-Nayar. Problem sets 6-7 are from Professor Christoph Boehm.
 
 <p align="right">
   (<a href="#ut-austin-business-cycle-analysis">back to top.</a>)
@@ -50,6 +52,24 @@ In the fall 2021 semester, it was decided that there was not to be a second prob
 
 # Problem Set 3
 Small open real business cycles model.
+
+<p align="right">
+  (<a href="#ut-austin-business-cycle-analysis">back to top.</a>)
+</p>
+
+---
+
+# Problem Set 6
+Solving optimal consumption model and durable goods model with fixed cost using value function iteration.
+
+<p align="right">
+  (<a href="#ut-austin-business-cycle-analysis">back to top.</a>)
+</p>
+
+---
+
+# Problem Set 7
+Investment model with fixed costs with productivity shocks, uncertainty shocks, and productivity shocks following an AR(1) process.
 
 <p align="right">
   (<a href="#ut-austin-business-cycle-analysis">back to top.</a>)
