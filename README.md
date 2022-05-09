@@ -32,7 +32,7 @@ Problem set 1 is from Professor Oli Coibion. Problem set 3 is from Professor And
 
 ---
 
-# Problem Set 1
+### [Problem Set 1](https://github.com/PaulTran47/ECO384G/tree/main/problemset1)
 Estimating impulse response functions.
 
 <p align="right">
@@ -41,7 +41,7 @@ Estimating impulse response functions.
 
 ---
 
-# Problem Set 2
+### Problem Set 2
 In the fall 2021 semester, it was decided that there was not to be a second problem set for the class. This section is still included to signal that a second problem set should be expected unless told otherwise like in said semester.
 
 <p align="right">
@@ -50,7 +50,7 @@ In the fall 2021 semester, it was decided that there was not to be a second prob
 
 ---
 
-# Problem Set 3
+### [Problem Set 3](https://github.com/PaulTran47/ECO384G/tree/main/problemset3)
 Small open real business cycles model.
 
 <p align="right">
@@ -59,7 +59,7 @@ Small open real business cycles model.
 
 ---
 
-# Problem Set 6
+### [Problem Set 6](https://github.com/PaulTran47/ECO384G/tree/main/problemset6)
 Solving optimal consumption model and durable goods model with fixed cost using value function iteration.
 
 <p align="right">
@@ -68,7 +68,7 @@ Solving optimal consumption model and durable goods model with fixed cost using 
 
 ---
 
-# Problem Set 7
+### [Problem Set 7](https://github.com/PaulTran47/ECO384G/tree/main/problemset7)
 Investment model with fixed costs with productivity shocks, uncertainty shocks, and productivity shocks following an AR(1) process.
 
 <p align="right">
