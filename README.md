@@ -11,8 +11,9 @@
         <li><a href="#problem-set-1">Problem set 1</a></li>
         <li><a href="#problem-set-2">Problem set 2</a></li>
         <li><a href="#problem-set-3">Problem set 3</a></li>
-        <li><a href="#problem-set-3">Problem set 6</a></li>
-        <li><a href="#problem-set-3">Problem set 7</a></li>
+        <li><a href="#problem-set-4">Problem set 4</a></li>
+        <li><a href="#problem-set-6">Problem set 6</a></li>
+        <li><a href="#problem-set-7">Problem set 7</a></li>
       </ol>
     </li>
     <li><a href="#prerequisites">Prerequisites</a></li>
@@ -59,6 +60,15 @@ Small open real business cycles model.
 
 ---
 
+### [Problem Set 4](https://github.com/PaulTran47/ECO384G/tree/main/problemset4)
+CES utility, gravity relationships, and Ricardian models.
+
+<p align="right">
+  (<a href="#ut-austin-business-cycle-analysis">back to top.</a>)
+</p>
+
+---
+
 ### [Problem Set 6](https://github.com/PaulTran47/ECO384G/tree/main/problemset6)
 Solving optimal consumption model and durable goods model with fixed cost using value function iteration.
 
@@ -85,6 +95,7 @@ Investment model with fixed costs with productivity shocks, uncertainty shocks, 
   * [Statistics and Machine Learning Toolbox](https://www.mathworks.com/help/stats/);
   * [Optimization Toolbox](https://www.mathworks.com/help/optim/);
   * [Econometrics Toolbox](https://www.mathworks.com/help/econ/).
+* Latest version of Stata.
 
 <p align="right">
   (<a href="#ut-austin-business-cycle-analysis">back to top.</a>)
