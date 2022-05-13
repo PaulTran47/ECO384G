@@ -12,6 +12,7 @@
         <li><a href="#problem-set-2">Problem set 2</a></li>
         <li><a href="#problem-set-3">Problem set 3</a></li>
         <li><a href="#problem-set-4">Problem set 4</a></li>
+        <li><a href="#problem-set-5">Problem set 5</a></li>
         <li><a href="#problem-set-6">Problem set 6</a></li>
         <li><a href="#problem-set-7">Problem set 7</a></li>
       </ol>
@@ -62,6 +63,15 @@ Small open real business cycles model.
 
 ### [Problem Set 4](https://github.com/PaulTran47/ECO384G/tree/main/problemset4)
 CES utility, gravity relationships, and Ricardian models.
+
+<p align="right">
+  (<a href="#ut-austin-business-cycle-analysis">back to top.</a>)
+</p>
+
+---
+
+### [Problem Set 5](https://github.com/PaulTran47/ECO384G/tree/main/problemset5)
+Monopolistic competition with variable markups and fixed costs and profits in the Melitz model.
 
 <p align="right">
   (<a href="#ut-austin-business-cycle-analysis">back to top.</a>)
